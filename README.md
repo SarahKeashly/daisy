@@ -1,4 +1,18 @@
-# readme is currently undergoing reconstruction!
+# Daisy Project
+
+A single page Application that allows a user to access plant postings and contact the seller via e-mail. The application also allows the seller to login to their admin page to add/delete postings.
+
+## SnapShots
+
+![""](https://github.com/SarahKeashly/Spotter/blob/master/docs/Screen%20Shot%202021-12-03%20at%2011.57.48%20AM.png)
+
+![""](https://github.com/SarahKeashly/Spotter/blob/master/docs/Screen%20Shot%202021-12-03%20at%2011.57.48%20AM.png)
+
+![""](https://github.com/SarahKeashly/Spotter/blob/master/docs/Screen%20Shot%202021-12-03%20at%2011.57.48%20AM.png)
+
+![""](https://github.com/SarahKeashly/Spotter/blob/master/docs/Screen%20Shot%202021-12-03%20at%2011.57.48%20AM.png)
+
+![""](https://github.com/SarahKeashly/Spotter/blob/master/docs/Screen%20Shot%202021-12-03%20at%2011.57.48%20AM.png)
 
 ## Getting Started
 
@@ -20,11 +34,10 @@
 - Note: nodemon is used, so you should not have to restart your server
 
 8. Visit `http://localhost:8080/`
-9. 
+9.
+
 ## Dependencies
 
 - Node 10.x or above
 - NPM 5.x or above
 - PG 6.x
-
-
