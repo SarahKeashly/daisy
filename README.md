@@ -4,15 +4,15 @@ A single page Application that allows a user to access plant postings and contac
 
 ## SnapShots
 
-![""](https://github.com/SarahKeashly/Spotter/blob/master/docs/Screen%20Shot%202021-12-03%20at%2011.57.48%20AM.png)
+![""](https://github.com/SarahKeashly/daisy/blob/master/docs/Screen%20Shot%202021-12-08%20at%2010.45.06%20AM.png)
 
-![""](https://github.com/SarahKeashly/Spotter/blob/master/docs/Screen%20Shot%202021-12-03%20at%2011.57.48%20AM.png)
+![""](https://github.com/SarahKeashly/daisy/blob/master/docs/Screen%20Shot%202021-12-08%20at%2010.45.27%20AM.png)
 
-![""](https://github.com/SarahKeashly/Spotter/blob/master/docs/Screen%20Shot%202021-12-03%20at%2011.57.48%20AM.png)
+![""](https://github.com/SarahKeashly/daisy/blob/master/docs/Screen%20Shot%202021-12-08%20at%2010.45.44%20AM.png)
 
-![""](https://github.com/SarahKeashly/Spotter/blob/master/docs/Screen%20Shot%202021-12-03%20at%2011.57.48%20AM.png)
+![""](https://github.com/SarahKeashly/daisy/blob/master/docs/Screen%20Shot%202021-12-08%20at%2010.45.55%20AM.png)
 
-![""](https://github.com/SarahKeashly/Spotter/blob/master/docs/Screen%20Shot%202021-12-03%20at%2011.57.48%20AM.png)
+![""](https://github.com/SarahKeashly/daisy/blob/master/docs/Screen%20Shot%202021-12-08%20at%2010.47.08%20AM.png)
 
 ## Getting Started
 
